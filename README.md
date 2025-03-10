@@ -94,3 +94,9 @@ We welcome contributions! Feel free to fork the repository and submit pull reque
 - Vinayak Jha
 - Kristin Boeckmann
 - Lisa Phan
+
+---
+
+## Original Repository
+This project was initially contributed to in the following repository:  
+👉 [EECS 581 - TikTakYo](https://github.com/realVinayak/EECS581-TikTakYo)
